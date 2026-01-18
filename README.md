@@ -1,10 +1,7 @@
-## Hi there 👋
+
+https://github-readme-stats.hackclub.dev/api/wakatime?username=26552&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=shadow_red
 
 
-
-
-
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 <!--
 **Dubious-Food/Dubious-Food** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
